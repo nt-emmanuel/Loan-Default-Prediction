@@ -1,6 +1,6 @@
 # Loan Default Prediction
 
-Short Description: end-to-end loan default prediction project.
+Short Description: end-to-end loan default prediction project. Read the entire process on Medium here: https://medium.com/@emmanuelntiene11/predicting-loan-defaults-my-first-end-to-end-data-science-project-09e7f7e45d73
 
 ## TL;DR
 
@@ -20,6 +20,7 @@ pip-install -r requirements.text
 
 ## License
 MIT
+
 
 
 
