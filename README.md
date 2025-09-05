@@ -8,13 +8,11 @@ Best model: XGBoost with SMOTE for high recall
 
 Key Result:Recal ~ 70% after resampling
 
-Notebooks: notebook/loan-default-risk-project
-
 ## How to run
 
 1. Clone repository:
-git clone: https://github.com/nt-emmanuel/loan-default-prediction.git
-cd loan-default-prediction
+git clone: https://github.com/nt-emmanuel/Loan-Default-Prediction.git
+cd Loan-Default-Prediction
 
 2. Install requirements:
 pip-install -r requirements.text
@@ -34,7 +32,8 @@ How to run: basic steps to reproduce
 Data: what's included and privacy note
 License: legal resuse info
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/loan-default-prediction/blob/main/notebooks/loan-default-risk-project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nt-emmanuel/Loan-Default-Prediction/blob/main/notebooks/Loan-Default-Risk-Project.ipynb)
 
 Clicking the badge opens directly from GitHUb into Colab for anyone
+
 
