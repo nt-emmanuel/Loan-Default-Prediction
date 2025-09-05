@@ -32,8 +32,9 @@ How to run: basic steps to reproduce
 Data: what's included and privacy note
 License: legal resuse info
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nt-emmanuel/Loan-Default-Prediction/blob/main/notebooks/Loan-Default-Risk-Project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/nt-emmanuel/Loan-Default-Prediction/blob/main/Loan_Default_Risk_Project.ipynb)
 
-Clicking the badge opens directly from GitHUb into Colab for anyone
+Clicking the badge opens directly from GitHUb into Colab for anyone https://
+
 
 
